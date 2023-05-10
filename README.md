@@ -1,4 +1,4 @@
-# calculator
+# Calculadora
 Projeto em C# voltado para mostrar uma série de Design Patterns
 
 Com o tema "Calculadora", este projeto se destina ao entendimento dos Design Patterns que serão detalhados abaixo.
